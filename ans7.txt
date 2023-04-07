@@ -1,0 +1,9 @@
+[x] 32
+[xl] 12
+[xll] 8
+[xlr] 30
+[xr] 54
+[xrl] 52
+[xrll] 44
+[xrr] 56
+[xrrr] 94

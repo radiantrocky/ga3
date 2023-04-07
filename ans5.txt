@@ -1,0 +1,10 @@
+[x] 1
+[xr] 5
+[xrl] 3
+[xrr] 7
+[xrrr] 25
+[xrrrl] 8
+[xrrrlr] 12
+[xrrrlrl] 11
+[xrrrr] 56
+[xrrrrr] 76
